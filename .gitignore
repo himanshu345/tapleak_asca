@@ -1,0 +1,17 @@
+# Reference papers and thesis — contain author identity
+Ashee Jain/Virtual Keyboard Acoustic Side CHannel ATtacks/
+
+# Personal readme with identifying Google Docs link
+Ashee Jain/readme.txt
+
+# Any stray PDFs
+*.pdf
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
